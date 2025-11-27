@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Codebuddy.Api/Codebuddy.Api.csproj" />
+  <Project Path="Codebuddy.Application/Codebuddy.Application.csproj" />
+  <Project Path="Codebuddy.Domain/Codebuddy.Domain.csproj" />
+  <Project Path="Codebuddy.Infrastructure/Codebuddy.Infrastructure.csproj" />
+</Solution>

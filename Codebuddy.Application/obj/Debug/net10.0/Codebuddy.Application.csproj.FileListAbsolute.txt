@@ -1,0 +1,15 @@
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Application\bin\Debug\net10.0\Codebuddy.Application.deps.json
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Application\bin\Debug\net10.0\Codebuddy.Application.dll
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Application\bin\Debug\net10.0\Codebuddy.Application.pdb
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Application\bin\Debug\net10.0\Codebuddy.Domain.dll
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Application\bin\Debug\net10.0\Codebuddy.Domain.pdb
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Application\obj\Debug\net10.0\Codebuddy.Application.csproj.AssemblyReference.cache
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Application\obj\Debug\net10.0\Codebuddy.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Application\obj\Debug\net10.0\Codebuddy.Application.AssemblyInfoInputs.cache
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Application\obj\Debug\net10.0\Codebuddy.Application.AssemblyInfo.cs
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Application\obj\Debug\net10.0\Codebuddy.Application.csproj.CoreCompileInputs.cache
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Application\obj\Debug\net10.0\Codebudd.ED0A25E8.Up2Date
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Application\obj\Debug\net10.0\Codebuddy.Application.dll
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Application\obj\Debug\net10.0\refint\Codebuddy.Application.dll
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Application\obj\Debug\net10.0\Codebuddy.Application.pdb
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Application\obj\Debug\net10.0\ref\Codebuddy.Application.dll

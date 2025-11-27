@@ -1,0 +1,11 @@
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Domain\bin\Debug\net10.0\Codebuddy.Domain.deps.json
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Domain\bin\Debug\net10.0\Codebuddy.Domain.dll
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Domain\bin\Debug\net10.0\Codebuddy.Domain.pdb
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Domain\obj\Debug\net10.0\Codebuddy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Domain\obj\Debug\net10.0\Codebuddy.Domain.AssemblyInfoInputs.cache
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Domain\obj\Debug\net10.0\Codebuddy.Domain.AssemblyInfo.cs
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Domain\obj\Debug\net10.0\Codebuddy.Domain.csproj.CoreCompileInputs.cache
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Domain\obj\Debug\net10.0\Codebuddy.Domain.dll
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Domain\obj\Debug\net10.0\refint\Codebuddy.Domain.dll
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Domain\obj\Debug\net10.0\Codebuddy.Domain.pdb
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Domain\obj\Debug\net10.0\ref\Codebuddy.Domain.dll
