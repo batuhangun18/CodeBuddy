@@ -33,12 +33,12 @@ export const AuthProvider = ({ children }: { children: React.ReactNode }) => {
   };
 
   const login = async (email: string, password: string) => {
-    const { data } = await api.post<AuthResponse>("/auth/login", { email, password });
+    const { data } = await api.post<AuthResponse>("/Auth/login", { email, password });
     persist(data);
   };
 
   const register = async (email: string, userName: string, password: string) => {
-    const { data } = await api.post<AuthResponse>("/auth/register", {
+    const { data } = await api.post<AuthResponse>("/Auth/register", {
       email,
       userName,
       password,
