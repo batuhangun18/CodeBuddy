@@ -9,3 +9,4 @@ C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Domain\obj\Debug\net10.0\Cod
 C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Domain\obj\Debug\net10.0\refint\Codebuddy.Domain.dll
 C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Domain\obj\Debug\net10.0\Codebuddy.Domain.pdb
 C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Domain\obj\Debug\net10.0\ref\Codebuddy.Domain.dll
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Domain\obj\Debug\net10.0\Codebuddy.Domain.sourcelink.json

@@ -17,3 +17,4 @@ C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Infrastructure\obj\Debug\net
 C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Infrastructure\obj\Debug\net10.0\Codebuddy.Infrastructure.pdb
 C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Infrastructure\obj\Debug\net10.0\Codebuddy.Infrastructure.genruntimeconfig.cache
 C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Infrastructure\obj\Debug\net10.0\ref\Codebuddy.Infrastructure.dll
+C:\Users\batuh\Desktop\Projects\CodeBuddy\Codebuddy.Infrastructure\obj\Debug\net10.0\Codebuddy.Infrastructure.sourcelink.json
