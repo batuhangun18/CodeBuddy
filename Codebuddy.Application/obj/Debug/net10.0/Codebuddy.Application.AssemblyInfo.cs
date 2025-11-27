@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Codebuddy.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+470f9db6cc8b0b4fe10ca0ebc4d88c1293c92e63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b85a55e4487ca9a95b2e68b628f6eae505f289c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Codebuddy.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Codebuddy.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

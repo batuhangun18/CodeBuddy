@@ -1,6 +1,7 @@
 using System.Text;
 using Codebuddy.Infrastructure.DependencyInjection;
 using Codebuddy.Infrastructure.Options;
+using Codebuddy.Infrastructure.Persistence;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 
@@ -54,6 +55,12 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+}
+
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<CodebuddyDbContext>();
+    db.Database.EnsureCreated();
 }
 
 app.UseHttpsRedirection();
